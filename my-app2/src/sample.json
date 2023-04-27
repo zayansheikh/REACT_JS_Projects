@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Israel Adesanya Octagon Interview | UFC 287 - UFC - Ultimate Fighting Championship",
+      "description": "Israel Adesanya delivered a highlight for the ages in the UFC 287 main event on Saturday, ending things with opponent Alex Pereira with a massive second-roun...",
+      "url": "https://www.youtube.com/watch?v=ZNoODFgTq3c",
+      "urlToImage": "https://i.ytimg.com/vi/ZNoODFgTq3c/maxresdefault.jpg",
+      "publishedAt": "2023-04-09T05:24:51Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Jeremy Renner's Doctor Reveals Snowplow Was Milimeters Away From His Vital Organ - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com/",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2023-04-09T04:31:00Z",
+      "content": "Are you a first time voter? What are your hopes &amp; expectations from our leaders? Share your video messages &amp; we'll air the best ones on NDTV:"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Marcella Baietto, CBS3 Staff",
+      "title": "3 shot at Christiana Mall in Delaware, police looking for suspects - CBS News",
+      "description": "Police say they have cleared and searched the mall and believe there is no threat to the public.",
+      "url": "https://www.cbsnews.com/philadelphia/news/christiana-mall-in-delaware-closed-for-criminal-investigation-police/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/09/87618083-77cf-487e-ae1b-566759dd270d/thumbnail/1200x630/01fd90db1e6769d738f5c5de77fa71f5/lns-christiana-mall-dsp-incident-chopper-040823-frame-86395.jpg",
+      "publishedAt": "2023-04-09T03:58:00Z",
+      "content": "NEWARK, Del. (CBS) -- Delaware State Police say three people were shot Saturday night in the food court at Christiana Mall in Newark.\r\nThe shooting was a result of a dispute and not a random act and … [+2396 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Israel hits Syria after rockets fired towards Golan Heights - Reuters",
+      "description": "Israeli jets hit Syrian military targets on Sunday in response to rockets launched towards Israeli controlled territory overnight, Israel's military said, as violence flared again following cross-border exchanges of fire during the week.",
+      "url": "https://www.reuters.com/world/middle-east/israel-says-missile-alert-sounded-golan-heights-2023-04-08/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=136",
+      "publishedAt": "2023-04-09T03:54:00Z",
+      "content": "JERUSALEM, April 8 (Reuters) - Israeli jets hit Syrian military targets on Sunday in response to rockets launched towards Israeli controlled territory overnight, Israel's military said, as violence f… [+3276 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Mohammed Tawfeeq, Jo Shelley",
+      "title": "Jordan warns Israel of 'catastrophic consequences' if al-Aqsa mosque stormed again - CNN",
+      "description": "Jordan has warned of \"catastrophic consequences\" if Israeli forces were to storm the al-Aqsa mosque again.",
+      "url": "https://www.cnn.com/2023/04/08/middleeast/jordan-warns-israel-al-aqsa-mosque-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/150325082132-social-gfx-breaking-news.jpg?q=x_2,y_0,h_898,w_1596,c_crop/w_800",
+      "publishedAt": "2023-04-09T02:47:00Z",
+      "content": "Jordan has warned of catastrophic consequences if Israeli forces were to storm the al-Aqsa mosque again.\r\nShould the Israeli police, assault worshipers again, in an attempt to empty [the mosque] of w… [+1623 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WQOW TV News 18" },
+      "author": "Julia Lopez",
+      "title": "UPDATE: Two police officers and suspect killed after gunfire exchanged during traffic stop in Barron County - WQOW TV News 18",
+      "description": "There is a large police presence on County Road SS in Barron County Saturday afternoon after two officers were killed in the line of duty.",
+      "url": "https://www.wqow.com/news/top-stories/update-two-police-officers-and-suspect-killed-after-gunfire-exchanged-during-traffic-stop-in-barron/article_8fc89c7e-d662-11ed-8d01-7ba95ebc14f3.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wqow.com/content/tncms/assets/v3/editorial/5/f3/5f311066-d665-11ed-bc9b-1fffefe6379d/6431f938e707a.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-04-09T02:44:53Z",
+      "content": "BARRON COUNTY UPDATE (WQOW) - Two officers were killed Saturday in Barron County during a traffic stop.\r\nAccording to a press release from the Wisconsin Department of Justice, a Chetek police officer… [+2467 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "20 Times Quicker – Ice Sheets Can Collapse Far Faster Than Previously Thought Possible - SciTechDaily",
+      "description": "Scientists discover that during periods of global warming, ice sheets can retreat at a pace of up to 600 meters per day, which is 20 times quicker than the previous highest recorded rate of retreat. An international team of scientists, headed by Dr. Christine…",
+      "url": "https://scitechdaily.com/20-times-quicker-ice-sheets-can-collapse-far-faster-than-previously-thought-possible/",
+      "urlToImage": "https://scitechdaily.com/images/Landsat-8-Image-Depicting-the-Highly-Dynamic-SCAR-Inlet-Ice-Shelf-Antarctic-Peninsula-scaled.jpg",
+      "publishedAt": "2023-04-09T02:14:34Z",
+      "content": "Landsat 8 image depicting the highly dynamic SCAR Inlet Ice Shelf, Antarctic Peninsula, and sea ice production offshore. Credit: NASA/USGS, processed by Dr. Frazer Christie, Scott Polar Research Inst… [+5241 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Mary Kekatos",
+      "title": "CDC warns doctors to be on the lookout for rare Marburg virus - ABC News",
+      "description": "Cases have been detected in Tanzania and Equatorial Guinea.",
+      "url": "https://abcnews.go.com/Health/cdc-warns-doctors-lookout-rare-ebola-virus/story?id=98426978",
+      "urlToImage": "https://s.abcnews.com/images/Health/Marburg-rf-gty-ml-230407_1680875618684_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-04-09T01:29:38Z",
+      "content": "The Centers for Disease Control and Prevention issued a warning Thursday for clinicians and public health departments in the United States to be on the lookout for cases of a rare Ebola-like virus.\r\n… [+2638 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Reuters",
+      "title": "China begins second day of military drills; Taiwan say it's monitoring missiles - CNBC",
+      "description": "China, which claims democratically governed Taiwan as its own territory, began three days of military exercises around the island on Saturday.",
+      "url": "https://www.cnbc.com/2023/04/09/us-monitors-china-drills-near-taiwan-as-beijing-kicks-off-military-drills.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107222243-1681003189120-gettyimages-1250850967-AFP_33CT7G3.jpeg?v=1681003591&w=1920&h=1080",
+      "publishedAt": "2023-04-09T01:26:00Z",
+      "content": "China began a second day of drills around Taiwan on Sunday as the island's defence ministry reported multiple air force sorties and said it was monitoring the movement of China's missile forces, as t… [+4935 chars]"
+    }
+  ]
+}
