@@ -8,7 +8,7 @@ export class Navabr extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
+        <nav className="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
           <div className="container-fluid">
             <Link className="navbar-brand" to="#">My News</Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,6 +35,16 @@ export class Navabr extends Component {
                     <li className="nav-item"><Link className="nav-link text-dark" to="/technology">Technology</Link></li>
                   </ul>
                 </li>
+                  <li className="nav-item dropdown">
+                    <Link className="nav-link dropdown-toggle" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Country
+                    </Link>
+                    <ul className="dropdown-menu">
+                    <li><Link className="dropdown-item" to="/us">United State</Link></li>
+                    <li><Link className="dropdown-item" to="/in">India</Link></li>
+                    <li><Link className="dropdown-item" to="/ae">United Arab Emirates</Link></li>
+                    </ul>
+                  </li>
               </ul>
             </div>
           </div>
